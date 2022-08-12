@@ -151,4 +151,8 @@
     "name": "CyanDustry",
     "address": ["n1.yeet.ml:6576", "n3.yeet.ml:6568"]
   }
+  {
+    "name": "Aurora-Mindustry",
+    "address": ["node1.aurorapanel.ml"]
+  },
 ]
